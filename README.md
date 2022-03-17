@@ -1,1 +1,1 @@
-# Git-assignment-
+# Git-assignment- R code to tidy up rainfall data for Melborne and Oxford. Then code to plot average rainfall and distinguish between the two cities. Code could be used to process and plot climate data between two different localities 
